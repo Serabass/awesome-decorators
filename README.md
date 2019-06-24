@@ -4,6 +4,8 @@
 
 https://github.com/typestack/class-validator
 
+https://github.com/panarama360/ts-telegraf-decorators
+
 https://github.com/xujif/ts-cache-decorator
 
 https://github.com/jayphelps/core-decorators
@@ -27,3 +29,15 @@ https://github.com/seanpmaxwell/overnight
 https://github.com/typestack/class-sanitizer
 
 https://github.com/RobinBuschmann/xml-typescript
+
+https://github.com/gilf/CustomElementDecorator
+
+https://github.com/pzuraq/macro-decorators
+
+https://github.com/xrobert35/es-mapping-ts
+
+https://github.com/szokodiakos/typegoose
+
+https://github.com/typeorm
+
+https://github.com/typestack/typedi
