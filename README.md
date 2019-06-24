@@ -43,3 +43,5 @@ https://github.com/szokodiakos/typegoose
 https://github.com/typeorm
 
 https://github.com/typestack/typedi
+
+https://github.com/vcfvct/typescript-retry-decorator
