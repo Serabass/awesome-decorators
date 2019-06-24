@@ -60,4 +60,5 @@ https://github.com/Diademe/undo-redo-decorator
 
 https://github.com/b-galazka/watch-property-decorator
 
-TODO Create @AuthCache decorator
+TODO Create @AutoCache decorator
+TODO Create @bash decorator
