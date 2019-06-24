@@ -2,6 +2,8 @@
 
 Решил пособирать материалы и проекты, прямо или косвенно связанные с декораторами. Всё найденное буду складывать сюда.
 
+Decorators One Love <3
+
 https://github.com/typestack/class-validator
 
 https://github.com/panarama360/ts-telegraf-decorators
