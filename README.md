@@ -55,3 +55,5 @@ https://github.com/dwieeb/minimist-decorators
 https://github.com/timfish/ffi-decorators
 
 https://github.com/jbpionnier/env-decorator
+
+https://github.com/Diademe/undo-redo-decorator
