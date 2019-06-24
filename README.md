@@ -2,7 +2,7 @@
 
 Решил пособирать материалы и проекты, прямо или косвенно связанные с декораторами. Всё найденное буду складывать сюда.
 
-Decorators One Love <3
+Decorators One Love ❤️
 
 https://github.com/typestack/class-validator
 
