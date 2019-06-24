@@ -62,5 +62,7 @@ https://github.com/b-galazka/watch-property-decorator
 
 https://github.com/fjanevski/typeix-singleton-class-decorator
 
+https://github.com/Colonise/TSGulp
+
 TODO Create @AutoCache decorator
 TODO Create @bash decorator
