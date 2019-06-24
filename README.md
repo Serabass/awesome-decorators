@@ -45,3 +45,9 @@ https://github.com/typeorm
 https://github.com/typestack/typedi
 
 https://github.com/vcfvct/typescript-retry-decorator
+
+https://github.com/storkme/clidec
+
+https://github.com/arkon/ts-guard-decorator
+
+https://github.com/dwieeb/minimist-decorators
