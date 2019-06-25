@@ -64,5 +64,7 @@ https://github.com/fjanevski/typeix-singleton-class-decorator
 
 https://github.com/Colonise/TSGulp
 
+https://tsed.io
+
 TODO Create @AutoCache decorator
 TODO Create @bash decorator
